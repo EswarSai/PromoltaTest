@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_ec07e953dbbfcc2a3843af51c093bbc849bb1aa6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\libs\google-api-services-youtube-v3-rev178-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="920cb88d6883eb13b5c4d0a4af342cb6a61cd249">
+        <dex dex="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\build\intermediates\pre-dexed\debug\google-api-services-youtube-v3-rev178-1.22.0_ab833dec6f76c1b029f701ccfbaa77c5bfcf27e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\libs\google-http-client-jackson2-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9b85308a0eb705c2e1314898e228aaeb586eff73">
+        <dex dex="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\build\intermediates\pre-dexed\debug\google-http-client-jackson2-1.22.0_5c56a8b20bb700ae49a015fd40a6ff233450a482.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\psai\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.6\2586312cd2b8a511e4c6236736f5a039fc0f2273\rxjava-1.1.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\build\intermediates\pre-dexed\debug\rxjava-1.1.6_d0b2c472ac38a2a1617dfd8699c0b639628a3ffb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="da3f763afd39da1c947d9442847c837e9182a09f">
+        <dex dex="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-9.6.1_6836113e86765d0374ad3cb7841a97392a49fb25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f435ad977137c14f1b14ef8ccd69ca676d60e5a8">
+        <dex dex="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\build\intermediates\pre-dexed\debug\instant-run_2c4679bf98e6c1c9333906e4a44a0fc6cc8bf3e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.4.0_63673d4ac297af9950631b44ca06ad2c76e4f068.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.6.1_a8ceaa4852411b9c7c8f804655965187cb8dae57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_2ff871b4b07201e0fe33c12700a6452e49d46e2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\libs\google-oauth-client-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="996cf55e05a6179a16fb13203b7771c87342bac5">
+        <dex dex="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\build\intermediates\pre-dexed\debug\google-oauth-client-1.22.0_e7dd3b969a814f437a8aeccb82a9ca1064a1aae1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\psai\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\build\intermediates\pre-dexed\debug\retrofit-2.1.0_85c583b26e63e1f92ed1477bd22b19ac2b1c36d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\android\databinding\baseLibrary\2.2.0\baseLibrary-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e1d81f36ef9a5803689b3e888eb93a8759a17be0">
+        <dex dex="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\build\intermediates\pre-dexed\debug\baseLibrary-2.2.0_c6d3acab46ce58625baa05fe618d43ec962f177b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\build\intermediates\exploded-aar\com.android.databinding\library\1.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="957dc30b1495f8689271e00d56ab09cc9192df02">
+        <dex dex="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\build\intermediates\pre-dexed\debug\com.android.databinding-library-1.2.1_4e0aa819b8b64f6fc706fe5be086f24a8524937c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.6.1_20f55215803318e9e9ba97c2e23dbc27df60fc8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f50e5ecd1adb2e25b7d5526072eed806efa9d730">
+        <dex dex="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_3632e0185fdc44596f2f674f1eaddc390d519fbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\psai\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava\2.1.0\693eddc23e87ab13f9cf5001707ce8e7e1d1ff01\adapter-rxjava-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\build\intermediates\pre-dexed\debug\adapter-rxjava-2.1.0_8ffe166dcbe4c7252a52a6403fe48d74319956b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.6.1_a198e75e1291c5f487dd3aed30b8b828fdc76cc1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\libs\jackson-core-2.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\build\intermediates\pre-dexed\debug\jackson-core-2.1.3_b3a3e0ba3de132d63e08e45f0be56789f316d3f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\libs\google-http-client-android-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="676b43815230fdc699e745ce605df340edb2992e">
+        <dex dex="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\build\intermediates\pre-dexed\debug\google-http-client-android-1.22.0_105b370a886b6669bd7c12ddfcc895766a376606.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\libs\jsr305-1.3.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\build\intermediates\pre-dexed\debug\jsr305-1.3.9_cb203c59e8e972396ff08f232a981baa9c43db45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\psai\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_f06564f96a0bb7aa957d253b64a64a574c938a55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\libs\google-api-client-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="22aeef8463139fde1af1dcb69c5ecafb4142d340">
+        <dex dex="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\build\intermediates\pre-dexed\debug\google-api-client-1.22.0_7561dfd9d5d20950a13008ae8662c78d26d42799.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_02296452264546841056675981da5094d59250c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\build\intermediates\pre-dexed\debug\io.reactivex-rxandroid-1.2.1_87b0e3bb8af58898980f19397503c632f057902c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.6.1_2a7db619edc81ab9e4dc87613bb7f966f920ac5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\psai\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\build\intermediates\pre-dexed\debug\converter-gson-2.1.0_b123b91f5ffb926197c4d540f09dd6279f06950a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.4.0_4ae15f1decab6145e7716f4d0bc1edfb9ae43979.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_6c573dd6c22c72a6b1b388a5a11d79a2533a8912.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\libs\google-api-client-android-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ec45ce6d2af4b1c5ec9977e2648f6a85e0b3d70c">
+        <dex dex="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\build\intermediates\pre-dexed\debug\google-api-client-android-1.22.0_db3bee25e14d5f1a20b40f5434d2f9d9a378f77e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\psai\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\build\intermediates\pre-dexed\debug\okhttp-3.3.0_a6bab09acbdb08d978bea4e9188970472c302226.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.6.1_4a78a2f2ecc7efdc60fceed9c2ef61a1d21f20bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\psai\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_a34540bf2fa4863f386f22a4334336f9765ed556.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\psai\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\build\intermediates\pre-dexed\debug\okio-1.8.0_48824b4a8b9e98d70b9dfd87b44c2bbd4d81b37b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="465f40f840e583f8b7421a3aacf3fbf08c28f00a">
+        <dex dex="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-base-9.6.1_a7987a06994bc2559142c8411b37ce5b67bc8a00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\build\intermediates\exploded-aar\com.android.databinding\adapters\1.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c56d29136c2257f63f08c29c4e739efb03b06c7d">
+        <dex dex="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\build\intermediates\pre-dexed\debug\com.android.databinding-adapters-1.2.1_3d7a075445340cbc72d2473fe07da8d7e56dbbd0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.6.1_0518cb786dac51745ae2095bd2d5ce7bfac0207e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\libs\YouTubeAndroidPlayerApi.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\build\intermediates\pre-dexed\debug\YouTubeAndroidPlayerApi_80330877b2f058d2d2ec81d174fac4a03f9fceb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_9e91f340dd1c7fecbd51c1e2936b30bb26fc1f69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.6.1_2b3b2a22d226632c485a502eef397a04b50e9535.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\libs\google-http-client-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3451dc7c3e18faaaa38821311e4d01336872700e">
+        <dex dex="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\build\intermediates\pre-dexed\debug\google-http-client-1.22.0_0332cb22b7eca5ec1692c093dad2bad4506ee0bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_fe31a27e76ab766f358b29bc7aa02248b4d40f8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\psai\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\psai\AndroidStudioProjects\PromoltaTest\app\build\intermediates\pre-dexed\debug\gson-2.7_028396c72751189d6fcf779401ae1adcbe8618b9.jar" />
+    </item>
+
+</items>
