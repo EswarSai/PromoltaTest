@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "142603985643",
+    "project_id": "firebase-promoltatest"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142603985643:android:497556fc7712b806",
+        "android_client_info": {
+          "package_name": "psai.develop.promoltatest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142603985643-7ndp98fd7g77mn9v8bihrfos0jd1ssv0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "psai.develop.promoltatest",
+            "certificate_hash": "7F111E490AF84FE86F049453D611E6720C26C6B6"
+          }
+        },
+        {
+          "client_id": "142603985643-n1141rbqac4k7q50sbkku3avh214t0hp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuzO8-Mg88mILQC5CVlLJPXyp2x-PXjaI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

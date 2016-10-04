@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PromoltaTest</string>
+    <integer name="progress">300</integer>
+</resources>
